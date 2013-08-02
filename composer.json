@@ -1,0 +1,16 @@
+{
+    "name": "byraul/glacier-php",
+    "description": "PHP glacier uploader",
+    "require": {
+        "php": ">=5.3.3",
+        "aws/aws-sdk-php-zf2": "1.1.0",
+        "zendframework/zendframework": ">2.2.0rc1"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Raul Simiciuc",
+            "email": "byraul@gmail.com"
+        }
+    ]
+}
