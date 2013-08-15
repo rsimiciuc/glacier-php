@@ -98,7 +98,7 @@ return array(
             'routes' => array(
                 'upload' => array(
                     'options' => array(
-                        'route' => 'upload [--verbose|-v] [--multipart] [--partsize=] --vault= <filename>',
+                        'route' => 'upload [--verbose|-v] [--multipart] [--partsize=] [--vault=<valut>] FILENAME',
                         'defaults' => array(
                             'controller' => 'Application\Controller\Index',
                             'action'     => 'upload'
